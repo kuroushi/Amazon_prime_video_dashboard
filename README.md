@@ -1,2 +1,2 @@
 # Amazon_prime_video_dashboard
-This is simple dashboard about the shows available on Prime Video
+An interactive Power BI dashboard for analyzing Amazon Prime movie data. It provides insights into genre distribution, ratings, release trends, and top-performing movies using data visualization.
